@@ -23,6 +23,6 @@ Basically it a Standalone for now og-yoga is qb but change TriggerEvent for esx 
 start og-yoga
 ```
 
-Edited By DrChamp1 aka !ϟϟ!#3954
+Edited & Modify By DrChamp1 aka !ϟϟ!#3954
 
 Created By ALONE-OP#0001
