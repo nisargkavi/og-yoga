@@ -25,4 +25,4 @@ start og-yoga
 
 Edited & Modify By DrChamp1 aka !ϟϟ!#3954
 
-Created By ALONE-OP#0001
+Base Script By ALONE-OP#0001
