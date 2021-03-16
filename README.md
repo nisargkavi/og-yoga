@@ -3,8 +3,6 @@ og-yoga[QB] a simple decreasing stress While doing yoga.
 
 -------------------------------------------------------------------------------------------------------------------
 
-og-yoga
-
 # Features-
 -This Yoga is Fully Optimized[0.01ms]
 
